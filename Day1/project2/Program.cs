@@ -2,6 +2,6 @@
 {
 	static void main()
 	{
-		Console.WriteLine("saya");
+		Console.WriteLine("saya"); // contoh console
 	}
 }
